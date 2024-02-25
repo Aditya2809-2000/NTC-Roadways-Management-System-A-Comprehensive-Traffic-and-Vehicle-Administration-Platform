@@ -43,6 +43,5 @@ This README provides a basic overview and installation guide for the NTC Roadway
 
 ---
 
-Website Access: [NTC Roadways Management System](http://mersey.cs.nott.ac.uk/~psxas24/DIS-COMP4039-CW2-psxas24-20478461/psxas24-20478461_InstallationFiles/user_page.html)
 
 Please ensure you follow the system configuration steps closely and have all the necessary software components installed before attempting to set up the web application.
